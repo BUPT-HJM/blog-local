@@ -16,7 +16,6 @@ app.set('view engine','ejs');
 # **ejs标签系统**
 ## **<% XXX %>放js**
 >例如ejs官方示例
-(由于render的解析问题，本文代码行中的&#37;用&#37;代替)
 
 **The Data**
 
@@ -27,9 +26,9 @@ supplies:['mop','broom','duster']
 **The Template**
 ```
 <ul>
-    <&#37; for(var i=0;i<supplies.length;i++) {&#37;>
-    <li><&#37;= supplies[i] &#37;></li>
-    <&#37; } &#37;>
+    <% for(var i=0;i<supplies.length;i++) {%>
+    <li><%= supplies[i] %></li>
+    <% } %>
 </ul>
 The Result
 <ul>
@@ -41,7 +40,7 @@ The Result
 
 ## **<%= XXX %>**
 
->放需要被替换的html，比如可以用res.render('index',{title:'Express'})来讲页面的<&#37;= title &#37;>替换
+>放需要被替换的html，比如可以用res.render('index',{title:'Express'})来讲页面的<%= title %>替换
 
 ## **<%- XXX %>**
 
@@ -50,9 +49,9 @@ The Result
 **index.ejs**
 
 ```
-<&#37;- include a &#37;>
+<%- include a %>
 hi
-<&#37;- include b &#37;>
+<%- include b %>
 ```
 
 **a.ejs**
