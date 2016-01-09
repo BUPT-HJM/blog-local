@@ -2,7 +2,7 @@ title: 搭建hexo及替换主题
 date: 2015-12-11
 categories:
   - 前端
-  - 搭建hexo
+  - hexo
 tags:
   - hexo
 ---
