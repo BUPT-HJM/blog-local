@@ -63,3 +63,7 @@ mongod --dbpath=D:/nodestudy/mongodb/bin/blog
 
 ## **教程**
 >链接：https://github.com/nswbmw/N-blog
+
+---
+
+>可自由转载、引用，但需署名作者且注明文章出处。

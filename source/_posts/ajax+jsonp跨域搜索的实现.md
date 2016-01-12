@@ -220,6 +220,10 @@ if(typeof callback == 'function') callback({"AS":{"Query":"你好","FullResults"
 http://www.w3school.com.cn/jquery/ajax_ajax.asp
 http://www.imooc.com/learn/21
 
+---
+
+>可自由转载、引用，但需署名作者且注明文章出处。
+
 
 
 

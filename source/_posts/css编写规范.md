@@ -150,3 +150,7 @@ tags:
 打印 print.css
 
 >参考链接：http://www.shejidaren.com/css-written-specifications.html
+
+---
+
+>可自由转载、引用，但需署名作者且注明文章出处。
