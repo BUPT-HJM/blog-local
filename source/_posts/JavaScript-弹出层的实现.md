@@ -107,3 +107,7 @@ function opensth(){
         document.body.removeChild(oMask);
     };
 ```
+
+---
+
+>可自由转载、引用，但需署名作者且注明文章出处。
