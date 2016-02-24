@@ -36,7 +36,7 @@ tags:
 
 **CSS3+position定位**
 >父元素`position: relative`
-子元素`position: absolute`再加`left: 50%;transform: translateY(-50%)`
+子元素`position: absolute`再加`top: 50%;transform: translateY(-50%)`
 (低版本IE不兼容CSSS3新属性）
 
 **`tabel-cell`+`verticle-align`**
