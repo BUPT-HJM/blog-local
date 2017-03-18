@@ -13,7 +13,7 @@ language: zh-Hans
 timezone:
 
 #博客地址,与申请的GitHub一致
-url: http://bupt-hjm.github.io/
+url: https://bupt-hjm.github.io/
 root: /
 #博客链接格式
 permalink: :year/:month/:day/:title/

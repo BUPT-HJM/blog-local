@@ -11,7 +11,7 @@ tags:
 <!--more-->
 **DEMO访问地址：**https://bupt-hjm.github.io/BoomGo/
 **插件及使用方法地址：** https://github.com/BUPT-HJM/BoomGo
-**动画：**<img src="http://7xp9v5.com1.z0.glb.clouddn.com/GIF.gif" alt="">
+**动画：**<img src="http://7xp9v5.com1.z0.glb.clouddn.com/3703396155-5781c95668ee3_articlex.gif" alt="">
 
 ## **1.参考JQuery，支持链式调用**
 ```

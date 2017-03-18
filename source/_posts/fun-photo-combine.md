@@ -89,7 +89,7 @@ tags:
 
 ## **canvas合成器**
 原理搞懂了，做一个合成器难度也不会很大了，不过在图像处理上还是需要一些小算法，比如去色和调高亮度这些。
-> **合成器访问地址**：https://bupt-hjm.github.io/fun-photo-combine/[](https://bupt-hjm.github.io/fun-photo-combine/)
+> **合成器访问地址**：[https://bupt-hjm.github.io/fun-photo-combine/](https://bupt-hjm.github.io/fun-photo-combine/)
 > **github地址**：[https://github.com/BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine)
 
 ### **类似PS图层**
